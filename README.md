@@ -51,3 +51,6 @@ Initialized the database.
 ## Running the program
 To run this program clicking the green code button `clone` the code and run in you're preferred python editor. 
 
+
+add bit about the flask documentation here
+
