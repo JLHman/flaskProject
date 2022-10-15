@@ -25,7 +25,7 @@ This will install all of the modules that you will need for the program.
 
 ## Run the Application
 
-$ flask --app flaskr --debug run
+`$ flask --app flaskr --debug run`
 
 You’ll see output similar to this:
 
@@ -40,10 +40,9 @@ You’ll see output similar to this:
 
 ## Initalize the db file
 
-add this in markdown format
 Run the init-db command:
 
-$ flask --app flaskr init-db
+`$ flask --app flaskr init-db`
 Initialized the database.
 
 
@@ -52,5 +51,6 @@ Initialized the database.
 To run this program clicking the green code button `clone` the code and run in you're preferred python editor. 
 
 
-add bit about the flask documentation here
+## FLASK Documentation 
+Flask Tutorial Documentation is available here: [Flask Tutorial Documentation](https://flask.palletsprojects.com/en/2.2.x/tutorial/).
 
