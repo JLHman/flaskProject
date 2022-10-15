@@ -23,7 +23,30 @@ Fort Hayes University.  The objectives of the assignment were as follows:
 `pip install -r requirements text`
 This will install all of the modules that you will need for the program. 
 
-**Special note!** If you chose to import the packages individually make sure to use matplotlib 3.5.3.
+## Run the Application
+
+$ flask --app flaskr --debug run
+
+You’ll see output similar to this:
+
+* Serving Flask app "flaskr"
+* Debug mode: on
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+* Restarting with stat
+* Debugger is active!
+* Debugger PIN: nnn-nnn-nnn
+
+
+
+## Initalize the db file
+
+add this in markdown format
+Run the init-db command:
+
+$ flask --app flaskr init-db
+Initialized the database.
+
+
 
 ## Running the program
 To run this program clicking the green code button `clone` the code and run in you're preferred python editor. 
