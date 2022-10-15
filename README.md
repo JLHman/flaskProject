@@ -20,7 +20,7 @@ Fort Hayes University.  The objectives of the assignment were as follows:
 -    (10/10 points) There should be a README.md file in your project that explains what your project is, how to install the pip requirements, and how to execute the program. Please use the GitHub flavor of Markdown. Be thorough on the explanations. You will need to explain the steps of initializing the database and then how to run the development server for your project.
 
 ## Install 
-`pip install -r requirements text`
+`pip install -r requirements.txt`
 This will install all of the modules that you will need for the program. 
 
 ## Run the Application
